@@ -1,7 +1,7 @@
 ## Predicting_Credit_Card_Approvals  
 So this project was part of my independent learning initiative where I wanted to apply NLP and machine learning to real-world data. I chose product reviews for Apple AirPods Pro because it’s a globally used product with a lot of user feedback available online. I scraped around 20,000 reviews from Walmart to analyze what customers actually feel about the product.
 ### Methodology:
-• The main goal was to understand the overall sentiment of the product — whether users are generally positive or negative — and then to go a level deeper and identify key themes or topics that drive those sentiments
+• The main goal was to understand the overall sentiment of the product - whether users are generally positive or negative and then to go a level deeper and identify key themes or topics that drive those sentiments
 
 • Used Distilbert to classify the reviews as positive or negative  
 
